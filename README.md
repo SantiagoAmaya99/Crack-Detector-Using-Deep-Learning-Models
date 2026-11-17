@@ -6,7 +6,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-Grad--CAM-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 > **Proyecto de Inteligencia Artificial II — Universidad Industrial de Santander (UIS)**  
-> **Autores:** Andrés Mantilla · Andrés García · Santiago Amaya
+> **Autores:**  Santiago Amaya - Andrés Mantilla · Andrés García 
 
 Sistema de visión por computadora diseñado para la **clasificación automática** y **localización espacial** de grietas superficiales en estructuras de concreto (cubiertas, pavimentos y muros), combinando arquitecturas convolucionales ligeras y densas (*MobileNetV2* y *DenseNet121*) con mapas de activación **Grad-CAM** refinados morfológicamente.
 
